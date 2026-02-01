@@ -1,12 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: 642b0af7af12944e711ef4b07c6f8686b7f43781
-  Commits: 3
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: eb73b25badb229e28dfff1e62c86a1f5a73fd969
+  Commits: 10
   Recent commits:
-    642b0af | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T17:45:22Z | Bump python in /presidio-anonymizer
-    6973088 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:44:40Z | Auto-update branch-info.txt
-    dcaae15 | Author: ToldYO <120331043+ToldYO@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:44:29-04:00 | Initial commit
+    eb73b25 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T05:48:09Z | Bump python in /presidio-anonymizer
+    2c17493 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T05:36:13Z | Auto-update branch-info.txt
+    ad80330 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:36:32Z | Auto-update branch-info.txt
+    d1b3cc8 | Author: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Committer: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Date: 2025-10-09T18:35:53Z | Merge branch 'lab7'
+    8189f7b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:35:23Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: e1abdd9cf1ca5bba4d77106a9b3f167ae1fb0ac4
   Commits: 9
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     6973088 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:44:40Z | Auto-update branch-info.txt
     dcaae15 | Author: ToldYO <120331043+ToldYO@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:44:29-04:00 | Initial commit
 - main
-  SHA: ad803308067d903d9b8cdb9a144a1c162c655dd0
-  Commits: 8
+  SHA: 2c17493a9426af912af102665516f2a1e06029f7
+  Commits: 9
   Recent commits:
+    2c17493 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T05:36:13Z | Auto-update branch-info.txt
     ad80330 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:36:32Z | Auto-update branch-info.txt
     d1b3cc8 | Author: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Committer: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Date: 2025-10-09T18:35:53Z | Merge branch 'lab7'
     8189f7b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:35:23Z | Auto-update branch-info.txt
     4cf1a20 | Author: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Committer: Ahmed alnakhalah <120331043+ToldYO@users.noreply.github.com> | Date: 2025-10-09T18:35:06Z | updates
-    7d443b1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:45:30Z | Auto-update branch-info.txt
